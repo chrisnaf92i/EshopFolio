@@ -4,7 +4,7 @@
   "description": "Projet de back-end de site de E-Commerce (back-end)",
   "main": "server.js",
   "scripts": {
-    "start":"nodemon server.js",
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -14,7 +14,8 @@
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "mongodb": "^4.7.0",
+    "mongoose": "^6.4.1",
     "nodemon": "^2.0.18"
   },
-  "type":"module"
+  "type": "module"
 }
